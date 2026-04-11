@@ -12,7 +12,7 @@
 | [ecommerce-segmentation](https://github.com/mcsoftkirill4k/ecommerce-segmentation) | Сегментация товаров на фото для e-commerce. Энсамбль BiRefNet + RMBG-1.4, TTA, дообучение. **MSE 185, 3-е место** на Kaggle. | PyTorch, Transformers, OpenCV |
 | [TraffiQX](https://github.com/mcsoftkirill4k/TraffiQX) | Оптимизация светофоров через RL. Детекция YOLOv11 (mAP@0.5=0.94), трекинг ByteTrack, DQN-агент в SUMO. Снижение времени ожидания на 14%. | PyTorch, YOLOv11, SUMO, OpenCV |
 | [pivot_viewer_mvp](https://github.com/mcsoftkirill4k/pivot_viewer_mvp) | Веб-приложение для анализа Excel-отчётов. Ленивая подгрузка, фильтры, сводные таблицы. | FastAPI, React, DuckDB, Docker |
-| [PilotCad](https://github.com/mcsoftkirill4k/PilotCad) | Проект в разработке: локальный AI-ассистент для анализа CAD/AutoCAD-чертежей. | Qwen, PaddleOCR, FAISS, FastAPI, OpenCV |
+| [PilotCad](https://github.com/mcsoftkirill4k/PilotCad) | Проект в разработке: локальный AI-ассистент для анализа CAD/AutoCAD-чертежей. | Qwen, PaddleOCR, FAISS, LLM, DuckDB, RAG, OpenCV, PyTorch |
 
 ### Опыт
 
