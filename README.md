@@ -13,6 +13,7 @@
 | [TraffiQX](https://github.com/mcsoftkirill4k/TraffiQX) | Оптимизация светофоров через RL. Детекция YOLOv11 (mAP@0.5=0.94), трекинг ByteTrack, DQN-агент в SUMO. Снижение времени ожидания на 14%. | PyTorch, YOLOv11, SUMO, OpenCV |
 | [pivot_viewer_mvp](https://github.com/mcsoftkirill4k/pivot_viewer_mvp) | Веб-приложение для анализа Excel-отчётов. Ленивая подгрузка, фильтры, сводные таблицы. | FastAPI, React, DuckDB, Docker |
 | [PilotCad](https://github.com/mcsoftkirill4k/PilotCad) | Проект в разработке: локальный AI-ассистент для анализа CAD/AutoCAD-чертежей. | Qwen, PaddleOCR, FAISS, LLM, DuckDB, RAG, OpenCV, PyTorch |
+| [hse-nlp-masters](https://github.com/mcsoftkirill4k/hse-nlp-masters) | Семинары и домашки по NLP (ВШЭ): эмбеддинги, transformers, RAG, агенты. | PyTorch, Gensim, Navec, FAISS, Transformers, PEFT, TRL, LlamaIndex, Qdrant, LangGraph |
 
 ### Опыт
 
